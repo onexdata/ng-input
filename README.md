@@ -45,7 +45,7 @@ angular.module('myApp', ['ngInput']);
 add the directive to your html.
 
   ```html
-  <ng-input theme='hoshi'></ng-input>
+  <ng-input theme='hoshi' ng-model='yourVar'></ng-input>
   ```
 
 # Base Styles
